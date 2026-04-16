@@ -21,5 +21,3 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
-
-# Access Token for 90 days 16th April - [REDACTED]
