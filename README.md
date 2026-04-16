@@ -2,6 +2,8 @@
 
 - Created React App
 - Configured Tailwind CSS
+- Header
+- Login Form
 
 
 
@@ -19,3 +21,5 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
+
+# Access Token for 90 days 16th April - [REDACTED]
