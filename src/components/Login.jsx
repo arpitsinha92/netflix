@@ -13,10 +13,11 @@ const Login = () => {
             className="w-full h-screen object-cover"
           />
         </div>
-        <form className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center'>
-            <input type="text" placeholder='Email Address' className='p-2 m-2 rounded-md outline-none' />
-            <input type="password" placeholder='Password' className='p-2 m-2 rounded-md outline-none' />  
-            <button className='p-4 m-4'>Sign In</button>  
+        <form className='absolute top-1/2 left-1/2 bg-black bg-opacity-75 transform -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center text-white w-[300px] md:w-[400px] rounded-md flex-wrap p-4'>
+            <h1 className='font-bold text-3xl py-4'>Sign In</h1>
+            <input type="text" placeholder='Email Address' className='p-2 m-2 bg-gray-700 w-full rounded-md outline-none' />
+            <input type="password" placeholder='Password' className='p-2 m-2 bg-gray-700 w-full rounded-md outline-none' />  
+            <button className='p-4 my-6 bg-red-600 hover:bg-red-700 w-full rounded-md'>Sign In</button>  
         </form>
     </div>
   )
