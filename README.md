@@ -8,6 +8,8 @@
 - Sign up form
 - Form validation
 - useRef hooks
+- Firebase setup
+- Deployment of our app to production
 
 
 
